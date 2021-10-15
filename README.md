@@ -1,5 +1,5 @@
 # Language_transcription_for_indian_accented_english
-This is a full stack web based application that prints the transcription for indian accented english. The technologies used for this are Python, HTML, CSS, Flask, MySQL, Elliptic curve cryptography
+This is a full stack web based application that prints the transcription for indian accented english. We take the help of model.pth file which contains the pretrained model for speech recognition The technologies used for this are Python, HTML, CSS, Flask, MySQL, Elliptic curve cryptography
 
 steps to run this application:-
 
