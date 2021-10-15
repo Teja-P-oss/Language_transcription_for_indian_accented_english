@@ -24,9 +24,13 @@ step-6: Now open web browser and enter 127.0.0.1:5000/login. This will redirect 
 
 step-7: Once the user is logged he can use the benefit of this application.
 
+![image](https://user-images.githubusercontent.com/57107143/137548413-21ed43a1-2b54-421c-999d-2e9eff20866f.png)
+
+step-8: after logging in, user will be redirected to the home page where he can upload a wav file and get the transcripts for the uploaded file
+
 ![Speech-Recognizer](https://user-images.githubusercontent.com/57107143/137547554-49717b40-a800-4b91-8dfb-058de60844ed.png)
 
-step-8: once if you click Myfiles option, we can see the history of previous uploadings of the user
+step-9: once if you click Myfiles option, we can see the history of previous uploadings of the user
 
 ![image](https://user-images.githubusercontent.com/57107143/137547736-1248b8ef-6306-4f4d-bb8e-b98cf002120c.png)
 
