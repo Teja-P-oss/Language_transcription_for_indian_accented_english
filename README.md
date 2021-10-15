@@ -19,4 +19,14 @@ step-5: enter python server.py.
 
 step-6: Now open web browser and enter 127.0.0.1:5000/login. This will redirect to the login page. User needs to be registered before logging in .
 
+![image](https://user-images.githubusercontent.com/57107143/137547293-167c98d4-7eb0-4326-acde-786f56ffea60.png)
+
+
 step-7: Once the user is logged he can use the benefit of this application.
+
+![Speech-Recognizer](https://user-images.githubusercontent.com/57107143/137547554-49717b40-a800-4b91-8dfb-058de60844ed.png)
+
+step-8: once if you click Myfiles option, we can see the history of previous uploadings of the user
+
+![image](https://user-images.githubusercontent.com/57107143/137547736-1248b8ef-6306-4f4d-bb8e-b98cf002120c.png)
+
