@@ -22,7 +22,7 @@ step-6: Now open web browser and enter 127.0.0.1:5000/login. This will redirect 
 ![image](https://user-images.githubusercontent.com/57107143/137547293-167c98d4-7eb0-4326-acde-786f56ffea60.png)
 
 
-step-7: Once the user is logged he can use the benefit of this application.
+step-7: Once the user is logged he can use the benefit of this application. Here is the picture of stored password which is encrypted using elliptic curve cryptography
 
 ![image](https://user-images.githubusercontent.com/57107143/137548413-21ed43a1-2b54-421c-999d-2e9eff20866f.png)
 
