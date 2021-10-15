@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Speech Recognition</title>
+    <link rel="stylesheet" href='/static/styles2.css'>   
+	<title>Speech Recognition</title>
+</head>
+    <body>
+    <div class="login-box">
+    <img src="/static/avatar.png" class="avatar">
+            <form method="post" action='/register_status' enctype="multipart/form-data">
+            <p>Username</p>
+            <input type="text" name="username" placeholder="Enter Username">
+            <p>Password</p>
+            <input type="password" name="password" placeholder="Enter Password">
+			<p>Confirm Password</p>
+            <input type="password" name="cpassword" placeholder="Enter Password Again">
+			<p>Date of Birth</p>
+            <input type="text" name="dob" placeholder="dd/mm/yyyy" >
+            <input type="submit" name="submit" value="Register">
+			<h2>{{data}}</h2>
+			<br>
+            <a href="/login">Go back to Login Page</a>    
+            </form>
+        
+        
+        </div>
+    
+    </body>
+</html>

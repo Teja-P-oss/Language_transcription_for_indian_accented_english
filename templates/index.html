@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Speech Recognition</title>
+    <link rel="stylesheet" href='/static/styles.css'>   
+	<title>Speech Recognition</title>
+</head>
+    <body>
+    <div class="login-box">
+		<img src="/static/avatar.png" class="avatar">
+        <h1>Login Here</h1>
+		<form method="post" action='/login_status' enctype="multipart/form-data">
+			<p>Username</p>
+			<input type="text" name="username" placeholder="Enter Username">
+			<p>Password</p>
+			<input type="password" name="password" placeholder="Enter Password">
+			<input type="submit" name="submit" value="Login">
+			<br><br><br>
+			<h2>{{data}}</h2>
+		</form> 
+		 <a href="/register">Not a user ? Register here.</a>  			
+    </div>
+	
+    </body>
+</html>

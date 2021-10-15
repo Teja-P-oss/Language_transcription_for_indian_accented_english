@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>My Files</title>
+	<link rel="stylesheet" href='/static/styles.css'>
+</head>
+    <body>
+    <div>
+	<br>
+   	<h2>{{data}},YOUR TOTAL UPLOADINGS ARE: {{count}}! </h2>
+	<br><br><br>
+    {%for i in range(count)%}
+	<h2>Upload date: {{times[i]}}</h2>
+	<audio controls="controls" type="audio/wav">
+					<source src={{files[i]}}></source>
+	</audio> <br><br>
+	{%endfor%}
+     </div>
+    </body>
+</html>
